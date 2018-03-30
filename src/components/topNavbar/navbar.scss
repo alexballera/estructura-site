@@ -50,7 +50,17 @@
 }
 
 .side-nav {
-  li > a> .material-icons {
-    float: right !important;
+
+  .divider {
+    margin: 0;
+  }
+
+  li {
+    width: 100%;
+
+
+    > a> .material-icons {
+      float: right !important;
+    }
   }
 }
