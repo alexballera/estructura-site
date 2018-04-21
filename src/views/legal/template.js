@@ -6,9 +6,9 @@ const elem = yo`
 <section id="seccion-${NavItems.id.legal}" className="container grey lighten-5">
   <div id="${NavItems.id.legal}">
     <div className="row">
-    <div className="col s12 l12">
-      <h1>Legal</h1>
-    </div>
+      <div className="col s12 l12">
+        <h1>Legal</h1>
+      </div>
       <div className="col s12 l12">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla interdum enim metus, a luctus neque dapibus bibendum. Mauris at egestas diam. Mauris pharetra lobortis lacinia. Nulla lorem lorem, pharetra id malesuada ac, cursus et tortor. Vestibulum imperdiet ante nec sem porttitor fringilla. Pellentesque vitae leo non diam ullamcorper venenatis. Nullam a consequat libero. Vestibulum sit amet luctus massa. Vivamus ac magna ac lectus vehicula aliquet. Maecenas vel urna tellus. Pellentesque non rhoncus mauris. Suspendisse potenti.</p>
 
