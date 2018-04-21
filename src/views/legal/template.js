@@ -24,4 +24,4 @@ const elem = yo`
   </div>
 </section>
 `
-module.exports = elem
+export default elem
